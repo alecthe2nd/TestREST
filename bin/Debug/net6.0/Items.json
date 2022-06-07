@@ -1,0 +1,65 @@
+[
+  {
+    "Id": "6a5785f9-b94c-4580-9076-43679e6c2722",
+    "Name": "Milk 1 Gal",
+    "Price": 3.23,
+    "Amount": 20,
+    "CreatedDate": "2022-06-02T20:12:23.4021956+00:00"
+  },
+  {
+    "Id": "c95e4a8e-e16a-434e-9e09-81813d060a1a",
+    "Name": "Eggs 1 Doz",
+    "Price": 2.19,
+    "Amount": 23,
+    "CreatedDate": "2022-06-02T20:12:23.4022525+00:00"
+  },
+  {
+    "Id": "441cfbde-790c-49fe-ba83-b7b42b6c3c45",
+    "Name": "Wheat Bread 1 Loaf",
+    "Price": 0.93,
+    "Amount": 98,
+    "CreatedDate": "2022-06-02T20:12:23.4022531+00:00"
+  },
+  {
+    "Id": "1a67d3de-4e34-4e4a-a430-0394f5482c7b",
+    "Name": "Jif Peanut Butter 40oz",
+    "Price": 5.24,
+    "Amount": 54,
+    "CreatedDate": "2022-06-02T20:25:28.1812459+00:00"
+  },
+  {
+    "Id": "6846fd6c-096d-44c8-94d9-4ed13fa7ca5d",
+    "Name": "Widget Device",
+    "Price": 44.99,
+    "Amount": 47,
+    "CreatedDate": "2022-06-03T01:41:44.5689784+00:00"
+  },
+  {
+    "Id": "a232ef94-d2d4-497c-a8ac-b5967057c6ac",
+    "Name": "Bombs Away! Cereal",
+    "Price": 2.49,
+    "Amount": 12,
+    "CreatedDate": "2022-06-03T02:14:30.0040712+00:00"
+  },
+  {
+    "Id": "767d48c6-62c8-4379-9632-65024cf101fc",
+    "Name": "Non Brand specific Cola 1 L",
+    "Price": 9.99,
+    "Amount": 44,
+    "CreatedDate": "2022-06-03T02:26:52.7891211+00:00"
+  },
+  {
+    "Id": "b5e7f5e0-6a23-4af8-abbd-f863a515a5eb",
+    "Name": "Apple Pie 8 inch",
+    "Price": 9.15,
+    "Amount": 76,
+    "CreatedDate": "2022-06-03T15:43:28.6057642+00:00"
+  },
+  {
+    "Id": "34c67750-16aa-42e0-ae04-71737a4aaa03",
+    "Name": "All Natural Spring Water 1 Gal",
+    "Price": 4.49,
+    "Amount": 67,
+    "CreatedDate": "2022-06-03T16:28:30.3989942+00:00"
+  }
+]

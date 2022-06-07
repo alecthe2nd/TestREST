@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TTpcq1QaSjULtAvHOJfQPgGrMtv9ZN7ufJzJf6xv67U=",
+  "Source": "TestREST",
+  "BasePath": "_content/TestREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
